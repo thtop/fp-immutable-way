@@ -14,7 +14,7 @@ console.log('ORIGINAL:', books);
 console.log('UPDATED: ', updatedBooks);
 ```
 
-output: 
+**output:** 
 ```
 Info: Start process (7:20:12 PM)
 ORIGINAL: [
@@ -53,7 +53,7 @@ console.log('ORIGINAL:', books);
 console.log('UPDATED: ', updatedBooks);
 ```
 
-output: 
+**output:** 
 ```
 Info: Start process (7:23:38 PM)
 ORIGINAL: [
@@ -90,7 +90,7 @@ console.log('ORIGINAL:', books);
 console.log('UPDATED: ', filterBooks);
 ```
 
-output: 
+**output:**
 ```
 Info: Start process (7:26:46 PM)
 ORIGINAL: [
@@ -127,7 +127,7 @@ console.log('ORIGINAL:', books);
 console.log('sumPrice: ', sumPrice);
 ```
 
-output: 
+**output:**
 ```
 Info: Start process (7:29:24 PM)
 ORIGINAL: [
