@@ -77,6 +77,7 @@ ORIGINAL:  { id: 1, title: 'Eat That Frog!', price: 500 }
 UPDATED:  { title: 'Eat That Frog!', price: 500 }
 Info: End process (7:09:24 PM)
 ```
+---
 
 ## Summary
 
