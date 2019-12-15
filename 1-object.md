@@ -76,5 +76,10 @@ Info: Start process (7:09:24 PM)
 ORIGINAL:  { id: 1, title: 'Eat That Frog!', price: 500 }
 UPDATED:  { title: 'Eat That Frog!', price: 500 }
 Info: End process (7:09:24 PM)
-
 ```
+
+## Summary
+
+- Add -> spread syntax
+- Update -> spread syntax
+- Delete -> destructuring & rest parameter
